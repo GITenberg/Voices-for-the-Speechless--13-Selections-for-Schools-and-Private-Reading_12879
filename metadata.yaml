@@ -1,0 +1,25 @@
+_repo: Voices-for-the-Speechless--13-Selections-for-Schools-and-Private-Reading_12879
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Firth, Abraham
+    alias: Firth, A. (Abraham)
+    birthdate: 1818
+    deathdate: 1886
+    gutenberg_agent_id: '4936'
+    url: http://www.gutenberg.org/2009/agents/4936
+description: ''
+gutenberg_issued: '2004-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12879'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animal welfare'
+- !lcc 'PN'
+- GITenberg
+title: "Voices for the Speechless\r\nSelections for Schools and Private Reading"
+url: http://www.gutenberg.org/ebooks/12879
