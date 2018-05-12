@@ -1,5 +1,8 @@
 _repo: Voices-for-the-Speechless--13-Selections-for-Schools-and-Private-Reading_12879
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Firth, Abraham
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '4936'
     url: http://www.gutenberg.org/2009/agents/4936
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12879#Voices-for-the-Speechless--13-Selections-for-Schools-and-Private-Reading
 gutenberg_issued: '2004-07-10'
 gutenberg_type: Text
 identifiers:
